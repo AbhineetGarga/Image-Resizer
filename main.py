@@ -2,6 +2,7 @@
 import cv2
 #Confeguarable
 # Specify the full path to the image file (if not in the same directory)
+#dounload and use your own image
 image_path = "E:\Lets start new journey\Py\Projects\Image-Resizer\image.jpeg"  # Replace with the actual path
 destination= "Abhineet.png"
 scale_percent = 50
